@@ -106,12 +106,12 @@ func ViewElementParse(element string) {
 }
 
 //type ScriptParser struct {
-//	images          []models.Image
-//	children        map[string]models.Image
+//	images          []model.Image
+//	children        map[string]model.Image
 //	register        chan *Client
 //	unregister      chan *Client
 //	rooms           map[*Room]bool
-//	imageRepository models.ImageRepository
+//	imageRepository model.ImageRepository
 //}
 
 //func AttrFloat(attrName string) (val string, exists bool) {
